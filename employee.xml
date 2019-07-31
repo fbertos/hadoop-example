@@ -1,0 +1,7 @@
+<employees>
+  <employee id="1" department="1">Fernando Bertos</employee>
+  <employee id="2" department="1">Ingrid Croquette</employee>
+  <employee id="3" department="1">Aurelie Mairet</employee>
+  <employee id="4" department="2">Raphael Arrigoni</employee>
+  <employee id="5" department="2">Mirko Arrigoni</employee>
+</employees>
